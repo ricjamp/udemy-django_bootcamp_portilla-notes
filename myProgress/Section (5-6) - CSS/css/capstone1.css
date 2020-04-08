@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.welcome {
+  font-size: 4em; /* Twice the size of h1 */
+}
+
+input {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+button[type="submit"] {
+  margin-top: 1em;
+  padding: 1em;
+  border-radius: 10%;
+  font-weight: bold;
+  background-color: orange;
+}

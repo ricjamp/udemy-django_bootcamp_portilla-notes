@@ -1,3 +1,6 @@
+# Don't upload Jose Portilla's Django coursework folder
+DJANGO_COURSE_2.xx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,38 @@
+.text-center {
+  text-align: center;
+}
+
+.heading-1 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#palette {
+  margin: auto;
+  border-collapse: separate;
+  border-spacing: 0.75em;
+}
+
+#palette td {
+  min-width: 8rem;
+  height: 20rem;
+}
+
+#first {
+  background-color: #000;
+}
+
+#second {
+  background-color: #839788;
+}
+
+#third {
+  background-color: #EEE0CB;
+}
+
+#fourth {
+  background-color: #BAA898;
+}
+
+#fifth {
+  background-color: #BFD7EA;
+}
